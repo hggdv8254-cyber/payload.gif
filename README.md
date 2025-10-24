@@ -1,2 +1,0 @@
-# payload.gif
-payload.gif
